@@ -3,7 +3,7 @@
     <img src="https://tse2.mm.bing.net/th?id=OIP.WV8ZsXkHbK4b71tVz2bxdwHaHa&pid=Api" alt="Mini-pocket" width=72 height=72>
   </a>
 
-  <h3 align="center">Bootstrap</h3>
+  <h3 align="center">芝麻Hoi门</h3>
 
   <p align="center">    
     Lite, intractive, and powerful mini-prog for simplier and efficianter working experience. 
@@ -15,19 +15,6 @@
 
 <br>
 
-## Table of contents
-
-- [Quick start](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [Community](#community)
-- [Versioning](#versioning)
-- [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
 
 ## Quick start
 
@@ -86,9 +73,12 @@ Get updates on Bootstrap's development and chat with the project maintainers and
 **ZHANG Yixuan**
 - <https://www.koit.com/>
 
+**LUI Vanessa**
+- <https://www.linkedin.com/feed/>
 
-**Vanessa**
-- <https://twitter.com/fat>
+**LI Ava**
+**GUO Martin**
+**WANG Allen**
 
 
 
@@ -97,4 +87,4 @@ All our support from team and colleauges in HSBC.
 
 ## Copyright and license
 
-Code and documentation copyright
+Code and documentation copyright belong to  六维魔方
