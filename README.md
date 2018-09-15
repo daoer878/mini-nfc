@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://getbootstrap.com/">
-    <img src="https://tse2.mm.bing.net/th?id=OIP.WV8ZsXkHbK4b71tVz2bxdwHaHa&pid=Api" alt="Bootstrap logo" width=72 height=72>
+  <a href="https://www.voisin.top/">
+    <img src="https://tse2.mm.bing.net/th?id=OIP.WV8ZsXkHbK4b71tVz2bxdwHaHa&pid=Api" alt="Mini-pocket" width=72 height=72>
   </a>
 
   <h3 align="center">Bootstrap</h3>
@@ -87,7 +87,7 @@ Get updates on Bootstrap's development and chat with the project maintainers and
 - <https://www.koit.com/>
 
 
-**Vanessa **
+**Vanessa**
 - <https://twitter.com/fat>
 
 
@@ -97,4 +97,4 @@ All our support from team and colleauges in HSBC.
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2018 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/twbs/bootstrap/blob/master/docs/LICENSE).
+Code and documentation copyright
