@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="https://www.voisin.top/">
-    <img src="https://tse2.mm.bing.net/th?id=OIP.WV8ZsXkHbK4b71tVz2bxdwHaHa&pid=Api" width=72 height=72>
-  </a>
 
   <h3 align="center">芝麻Hoi门</h3>
 
