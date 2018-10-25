@@ -53,13 +53,6 @@ Mini-NFC/
 Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/twbs/bootstrap/issues/new).
 
 
-## Documentation
-
-Bootstrap's documentation, included in this repo in the root directory, is built with [Jekyll](https://jekyllrb.com/) and publicly hosted on GitHub Pages at <https://getbootstrap.com/>. The docs may also be run locally.
-
-Learn more about using Jekyll by reading its [documentation](https://jekyllrb.com/docs/).
-
-
 ## Community
 
 Get updates on Bootstrap's development and chat with the project maintainers and community members.
